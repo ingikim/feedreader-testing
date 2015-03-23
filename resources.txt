@@ -1,0 +1,7 @@
+Resources
+1. JavaScript Testing on Udacity (https://www.udacity.com/course/viewer#!/c-ud549-nd)
+2. Jasmine documentation (http://jasmine.github.io/2.1/introduction.html)
+3. https://api.jquery.com
+4. https://www.safaribooksonline.com/library/view/javascript-testing-with/9781449356729/_nearness_tobecloseto.html
+5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+6. http://www.w3schools.com/css/css3_3dtransforms.asp
